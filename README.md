@@ -30,7 +30,7 @@ There are 1 notebook available here to showcase work related to the above questi
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@changshengwu/job-security-10a2240f8541).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
