@@ -34,7 +34,7 @@ survey_results_schema.csv: schema of the dataset.
 ## Results<a name="results"></a>
 
 The main findings of the code can be found at the post available: https://medium.com/@changshengwu/job-security-10a2240f8541.
-Here is the conclusion: The people who are working in a company with 20 to 99 employees are worry about job security. Compared with other type of companies, private-held company is a concern by their employees from job security point of view. There is not much different on salary and job satisfaction for the people who think that job security is important.
+Here is the conclusion: the people who are working in a private-held limited company or a company with 20-99 employees are most strongly agree job security. There is not much different on salary and job satisfaction for the people who think that job security is important.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
